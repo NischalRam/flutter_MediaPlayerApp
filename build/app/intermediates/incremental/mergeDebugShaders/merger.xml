@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\91986\Downloads\Flutter_Task1-5391d02b07ec73c160b1f94dd0f8c3fad9f311a6\android\app\src\main\shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\91986\Downloads\Flutter_Task1-5391d02b07ec73c160b1f94dd0f8c3fad9f311a6\android\app\src\debug\shaders"/></dataSet></merger>
