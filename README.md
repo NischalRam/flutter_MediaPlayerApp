@@ -1,6 +1,6 @@
 # flutter_MediaPlayerApp
 
-**simple app that can play audio and video **
+** simple app that can play audio and video **
 
 this app was created using using **_flutter_**
 
