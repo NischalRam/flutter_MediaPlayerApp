@@ -12,7 +12,6 @@ A Quick Guide to the app:
 everything is expected here 🔗
  <a href= "https://nischalvooda.medium.com/flutter-media-player-app-2d69f2c7bf55" target="_blank">Blog</a>
  
-  <br>
  **feel free to contact me on**
   <a href= "https://www.linkedin.com/in/nischal-vooda-b00b1a19b/" target="_blank">Linkedin</a>
 
